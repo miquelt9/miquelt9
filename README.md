@@ -1,13 +1,10 @@
-## Hi there, I'm Miquel👋
+### Hi, I'm Miquel!
 
-- 🔭 Trying to do useful things
-- 📌 Location: Barcelona.
+- 🔭 Studying informatics engineering at FIB
+- 📫 miqueltorner9@gmail.com
+- 📌 Barcelona
 
-<br>
+![Miquel's GitHub stats](https://github-readme-stats.vercel.app/api?username=miquelt9&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miquelt9&theme=vue&layout=compact)](https://github.com/miquelt9/github-readme-stats)
 
-<p align="center">
-  <img alt="User Stats" src="https://github-readme-stats.vercel.app/api?username=miquelt9&&show_icons=true&&theme=dark" width=""/>
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miquelt9&&theme=dark" width=""/>
-</p>
 
-(this is still not finished don't look at this repo please)
