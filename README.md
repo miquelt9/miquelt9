@@ -7,7 +7,7 @@
     
 <br/>
 
-Want to know more about me? [Check out my portfolio](https://miqueltv.me/portfolio/).
+Want to know more about me? [Check out my portfolio](https://miquelt9.github.io/).
 
 <br/>
 
