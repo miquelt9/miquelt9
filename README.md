@@ -1,6 +1,6 @@
 # Hi, I'm Miquel!
 
-- 🔭 Studying informatics engineering at FIB.
+- 🔭 Graduted from informatics engineering at FIB.
 - 👨‍💻 Tapping keys on my PC's keyboard.
 - 🗣 I speak Catalan, Spanish and English. Currently learning German.
 - 🪁 I always enjoy travelling, running and cooking.
