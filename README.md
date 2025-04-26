@@ -4,17 +4,6 @@
 - 👨‍💻 Tapping keys on my PC's keyboard.
 - 🗣 I speak Catalan, Spanish and English. Currently learning German.
 - 🪁 I always enjoy travelling, running and cooking.
-    
-<br/>
-
-Want to know more about me? [Check out my portfolio](https://miquelt9.github.io/).
-
-<br/>
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=miquelt9&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
 
 ## Connect with me  
 <div align="center">
